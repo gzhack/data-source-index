@@ -1,3 +1,3 @@
 # opendatalist
-* [http://datavanvas.org](datavanvas.org)
-* [http://epmap.org](epmap.org)
+* [datavanvas.org](http://datavanvas.org)
+* [epmap.org](http://epmap.org)
